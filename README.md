@@ -19,4 +19,9 @@ $ npm run start
 $ npm run generate
 ```
 
+``` bash
+# testing send
+$ send.example.php
+```
+
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
